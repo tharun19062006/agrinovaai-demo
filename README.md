@@ -1,7 +1,8 @@
-*Tech Aarambh 2.0*
+**Tech Aarambh 2.0**
 
 **Live Demo:** https://agrinova-ai.lovable.app
-https://agrinovaai-demo.vercel.app/
+
+**Live Demo:** https://agrinovaai-demo.vercel.app/
 
 **Team:** xpectoNova AI
 
